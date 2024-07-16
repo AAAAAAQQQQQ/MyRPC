@@ -1,6 +1,6 @@
 package com.ahua.myRPC_01.client;
 
-import com.ahua.myRPC_00.common.User;
+import com.ahua.myRPC_01.common.User;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

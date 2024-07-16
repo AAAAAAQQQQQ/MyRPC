@@ -3,7 +3,7 @@ package com.ahua.myRPC_01.common;
 import java.io.Serializable;
 
 /**
- * @author 86188
+ * @author AAAAAAQQQQQ
  */
 public class User implements Serializable {
     private Integer id;

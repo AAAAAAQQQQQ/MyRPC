@@ -1,7 +1,7 @@
 package com.ahua.myRPC_01.server;
 
 
-import com.ahua.myRPC_00.common.User;
+import com.ahua.myRPC_01.common.User;
 
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
